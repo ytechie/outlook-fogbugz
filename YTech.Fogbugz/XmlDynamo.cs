@@ -10,6 +10,10 @@ using System.Xml.Linq;
 
 #endregion
 
+/*
+ * STOLEN WITH PERMISSION FROM https://github.com/brandonmartinez/BS.Toolkit
+ */
+
 namespace YTech.Fogbugz
 {
     public class XmlDynamo : DynamicObject, IEnumerable
