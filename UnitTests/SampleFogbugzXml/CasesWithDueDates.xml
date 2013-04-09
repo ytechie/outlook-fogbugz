@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <cases count="20">
+    <case ixBug="80464" operations="edit,assign,resolve,email,remind">
+      <sTitle><![CDATA[Fake Case for Testing 2]]></sTitle>
+      <dtDue>2012-07-30T20:18:16Z</dtDue>
+      <ixPriority>3</ixPriority>
+      <dtOpened>2012-07-30T19:18:16Z</dtOpened>
+      <dtLastUpdated>2013-01-07T03:19:53Z</dtLastUpdated>
+    </case>
+  </cases>
+</response>
